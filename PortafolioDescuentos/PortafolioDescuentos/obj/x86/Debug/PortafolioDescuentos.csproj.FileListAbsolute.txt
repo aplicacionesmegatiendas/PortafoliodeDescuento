@@ -1,0 +1,290 @@
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\bin\Debug\PortafolioDescuentos.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\bin\Debug\PortafolioDescuentos.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\bin\Debug\PortafolioDescuentos.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\bin\Debug\ClosedXML.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\bin\Debug\ExcelNumberFormat.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\bin\Debug\System.Configuration.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\bin\Debug\System.Data.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\bin\Debug\System.Deployment.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\bin\Debug\System.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\bin\Debug\System.Drawing.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\bin\Debug\System.Windows.Forms.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\bin\Debug\System.Xml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\bin\Debug\System.Xml.Linq.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\bin\Debug\ClosedXML.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\bin\Debug\ClosedXML.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\bin\Debug\ExcelNumberFormat.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.AssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmLogin.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmOpenFile.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmPortafolio.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\obj\x86\Debug\Portafolio.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.CopyComplete
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20231009\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\bin\Debug\ClosedXML.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\bin\Debug\ExcelNumberFormat.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\bin\Debug\System.Configuration.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\bin\Debug\System.Data.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\bin\Debug\System.Deployment.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\bin\Debug\System.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\bin\Debug\System.Drawing.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\bin\Debug\System.Windows.Forms.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\bin\Debug\System.Xml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\bin\Debug\System.Xml.Linq.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\bin\Debug\ClosedXML.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\bin\Debug\ClosedXML.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\bin\Debug\ExcelNumberFormat.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.AssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmLogin.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmOpenFile.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmPortafolio.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\obj\x86\Debug\Portafolio.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.CopyComplete
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\obj\x86\Debug\PortafoliosDescuentos.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231009\PortafolioDescuentos\obj\x86\Debug\PortafoliosDescuentos.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.AssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmLogin.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmOpenFile.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmPortafolio.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\obj\x86\Debug\Portafolio.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\obj\x86\Debug\PortafoliosDescuentos.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\obj\x86\Debug\PortafoliosDescuentos.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\bin\Debug\ClosedXML.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\bin\Debug\ExcelNumberFormat.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\bin\Debug\System.Configuration.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\bin\Debug\System.Data.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\bin\Debug\System.Deployment.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\bin\Debug\System.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\bin\Debug\System.Drawing.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\bin\Debug\System.Windows.Forms.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\bin\Debug\System.Xml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\bin\Debug\System.Xml.Linq.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\bin\Debug\ClosedXML.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\bin\Debug\ClosedXML.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\bin\Debug\ExcelNumberFormat.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231012\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.CopyComplete
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\bin\Debug\ClosedXML.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\bin\Debug\ExcelNumberFormat.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\bin\Debug\System.Configuration.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\bin\Debug\System.Data.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\bin\Debug\System.Deployment.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\bin\Debug\System.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\bin\Debug\System.Drawing.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\bin\Debug\System.Windows.Forms.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\bin\Debug\System.Xml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\bin\Debug\System.Xml.Linq.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\bin\Debug\ClosedXML.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\bin\Debug\ClosedXML.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\bin\Debug\ExcelNumberFormat.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.AssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmLogin.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmOpenFile.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmPortafolio.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\obj\x86\Debug\Portafolio.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.CopyComplete
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\obj\x86\Debug\PortafoliosDescuentos.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227\PortafolioDescuentos\obj\x86\Debug\PortafoliosDescuentos.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\bin\Debug\ClosedXML.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\bin\Debug\ExcelNumberFormat.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\bin\Debug\System.Configuration.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\bin\Debug\System.Data.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\bin\Debug\System.Deployment.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\bin\Debug\System.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\bin\Debug\System.Drawing.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\bin\Debug\System.Windows.Forms.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\bin\Debug\System.Xml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\bin\Debug\System.Xml.Linq.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\bin\Debug\ClosedXML.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\bin\Debug\ClosedXML.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\bin\Debug\ExcelNumberFormat.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.AssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmLogin.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmOpenFile.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmPortafolio.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\obj\x86\Debug\Portafolio.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.CopyComplete
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\obj\x86\Debug\PortafoliosDescuentos.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - copia\PortafolioDescuentos\obj\x86\Debug\PortafoliosDescuentos.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\bin\Debug\ClosedXML.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\bin\Debug\ExcelNumberFormat.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\bin\Debug\System.Configuration.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\bin\Debug\System.Data.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\bin\Debug\System.Deployment.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\bin\Debug\System.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\bin\Debug\System.Drawing.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\bin\Debug\System.Windows.Forms.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\bin\Debug\System.Xml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\bin\Debug\System.Xml.Linq.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\bin\Debug\ClosedXML.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\bin\Debug\ClosedXML.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\bin\Debug\ExcelNumberFormat.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.AssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmLogin.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmOpenFile.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmPortafolio.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\obj\x86\Debug\Portafolio.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\obj\x86\Debug\PortafoliosDescuentos.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\obj\x86\Debug\PortafoliosDescuentos.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA\PortafolioDescuentos\obj\x86\Debug\Portafol.624318CB.Up2Date
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\ClosedXML.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\ExcelNumberFormat.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\System.Configuration.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\System.Data.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\System.Deployment.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\System.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\System.Drawing.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\System.Windows.Forms.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\System.Xml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\System.Xml.Linq.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\ClosedXML.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\ClosedXML.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\ExcelNumberFormat.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.AssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmLogin.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmOpenFile.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmPortafolio.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\obj\x86\Debug\Portafolio.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\obj\x86\Debug\Portafol.624318CB.Up2Date
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\obj\x86\Debug\PortafoliosDescuentos.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\obj\x86\Debug\PortafoliosDescuentos.pdb
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.exe.config
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.exe
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.pdb
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\ClosedXML.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\ExcelNumberFormat.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\System.Configuration.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\System.Data.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\System.Deployment.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\System.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\System.Drawing.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\System.Windows.Forms.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\System.Xml.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\System.Xml.Linq.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\ClosedXML.pdb
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\ClosedXML.xml
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\bin\Debug\ExcelNumberFormat.xml
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.AssemblyReference.cache
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmLogin.resources
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmOpenFile.resources
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmPortafolio.resources
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\obj\x86\Debug\Portafolio.Properties.Resources.resources
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.GenerateResource.cache
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.CoreCompileInputs.cache
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\obj\x86\Debug\Portafol.624318CB.Up2Date
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\obj\x86\Debug\PortafoliosDescuentos.exe
+E:\Downloads\portafolio\Portafolio Descuentos 20231227 - NO MATRIOSKA - copia\PortafolioDescuentos\obj\x86\Debug\PortafoliosDescuentos.pdb
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.exe.config
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.exe
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.pdb
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\bin\Debug\ClosedXML.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\bin\Debug\ExcelNumberFormat.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\bin\Debug\System.Configuration.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\bin\Debug\System.Data.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\bin\Debug\System.Deployment.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\bin\Debug\System.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\bin\Debug\System.Drawing.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\bin\Debug\System.Windows.Forms.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\bin\Debug\System.Xml.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\bin\Debug\System.Xml.Linq.dll
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\bin\Debug\ClosedXML.pdb
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\bin\Debug\ClosedXML.xml
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\bin\Debug\ExcelNumberFormat.xml
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.AssemblyReference.cache
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmLogin.resources
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmOpenFile.resources
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmPortafolio.resources
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\obj\x86\Debug\Portafolio.Properties.Resources.resources
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.GenerateResource.cache
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.CoreCompileInputs.cache
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\obj\x86\Debug\Portafol.624318CB.Up2Date
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\obj\x86\Debug\PortafoliosDescuentos.exe
+E:\Downloads\portafolio\Portafolio Descuentos 20240619\PortafolioDescuentos\obj\x86\Debug\PortafoliosDescuentos.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\bin\Debug\PortafoliosDescuentos.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\bin\Debug\ClosedXML.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\bin\Debug\ExcelNumberFormat.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\bin\Debug\System.Configuration.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\bin\Debug\System.Data.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\bin\Debug\System.Deployment.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\bin\Debug\System.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\bin\Debug\System.Drawing.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\bin\Debug\System.Windows.Forms.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\bin\Debug\System.Xml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\bin\Debug\System.Xml.Linq.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\bin\Debug\ClosedXML.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\bin\Debug\ClosedXML.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\bin\Debug\ExcelNumberFormat.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.AssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmLogin.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmOpenFile.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\obj\x86\Debug\Portafolio.FrmPortafolio.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\obj\x86\Debug\Portafolio.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\obj\x86\Debug\PortafolioDescuentos.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\obj\x86\Debug\Portafol.624318CB.Up2Date
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\obj\x86\Debug\PortafoliosDescuentos.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\PORTAFOLIO DESCUENTO\Portafolio Descuentos 20240619 NUEVO EXCEL\PortafolioDescuentos\obj\x86\Debug\PortafoliosDescuentos.pdb

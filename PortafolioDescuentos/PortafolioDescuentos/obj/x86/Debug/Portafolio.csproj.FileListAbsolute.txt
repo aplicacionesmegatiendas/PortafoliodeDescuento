@@ -1,0 +1,388 @@
+C:\PROYECTOS\Portafolio\Portafolio\bin\Debug\Portafolio.exe
+C:\PROYECTOS\Portafolio\Portafolio\bin\Debug\Portafolio.pdb
+C:\PROYECTOS\Portafolio\Portafolio\obj\x86\Debug\Portafolio.csprojResolveAssemblyReference.cache
+C:\PROYECTOS\Portafolio\Portafolio\obj\x86\Debug\Portafolio.FrmLogin.resources
+C:\PROYECTOS\Portafolio\Portafolio\obj\x86\Debug\Portafolio.FrmProtafolio.resources
+C:\PROYECTOS\Portafolio\Portafolio\obj\x86\Debug\Portafolio.Properties.Resources.resources
+C:\PROYECTOS\Portafolio\Portafolio\obj\x86\Debug\Portafolio.csproj.GenerateResource.Cache
+C:\PROYECTOS\Portafolio\Portafolio\obj\x86\Debug\Portafolio.exe
+C:\PROYECTOS\Portafolio\Portafolio\obj\x86\Debug\Portafolio.pdb
+C:\Users\Mega\Desktop\Portafolio\Portafolio\bin\Debug\Portafolio.exe
+C:\Users\Mega\Desktop\Portafolio\Portafolio\bin\Debug\Portafolio.pdb
+C:\Users\Mega\Desktop\Portafolio\Portafolio\obj\x86\Debug\Portafolio.FrmLogin.resources
+C:\Users\Mega\Desktop\Portafolio\Portafolio\obj\x86\Debug\Portafolio.FrmProtafolio.resources
+C:\Users\Mega\Desktop\Portafolio\Portafolio\obj\x86\Debug\Portafolio.Properties.Resources.resources
+C:\Users\Mega\Desktop\Portafolio\Portafolio\obj\x86\Debug\Portafolio.csproj.GenerateResource.Cache
+C:\Users\Mega\Desktop\Portafolio\Portafolio\obj\x86\Debug\Portafolio.exe
+C:\Users\Mega\Desktop\Portafolio\Portafolio\obj\x86\Debug\Portafolio.pdb
+C:\Users\Mega\Desktop\Portafolio ULTIMO\Portafolio\bin\Debug\Portafolio.exe
+C:\Users\Mega\Desktop\Portafolio ULTIMO\Portafolio\bin\Debug\Portafolio.pdb
+C:\Users\Mega\Desktop\Portafolio ULTIMO\Portafolio\obj\x86\Debug\Portafolio.csprojResolveAssemblyReference.cache
+C:\Users\Mega\Desktop\Portafolio ULTIMO\Portafolio\obj\x86\Debug\Portafolio.FrmLogin.resources
+C:\Users\Mega\Desktop\Portafolio ULTIMO\Portafolio\obj\x86\Debug\Portafolio.FrmProtafolio.resources
+C:\Users\Mega\Desktop\Portafolio ULTIMO\Portafolio\obj\x86\Debug\Portafolio.Properties.Resources.resources
+C:\Users\Mega\Desktop\Portafolio ULTIMO\Portafolio\obj\x86\Debug\Portafolio.csproj.GenerateResource.Cache
+C:\Users\Mega\Desktop\Portafolio ULTIMO\Portafolio\obj\x86\Debug\Portafolio.exe
+C:\Users\Mega\Desktop\Portafolio ULTIMO\Portafolio\obj\x86\Debug\Portafolio.pdb
+C:\Users\Win7-4\Desktop\PROYECTOS\Portafolio ULTIMO\Portafolio\bin\Debug\Portafolio.exe
+C:\Users\Win7-4\Desktop\PROYECTOS\Portafolio ULTIMO\Portafolio\bin\Debug\Portafolio.pdb
+C:\Users\Win7-4\Desktop\PROYECTOS\Portafolio ULTIMO\Portafolio\obj\x86\Debug\Portafolio.csprojResolveAssemblyReference.cache
+C:\Users\Win7-4\Desktop\PROYECTOS\Portafolio ULTIMO\Portafolio\obj\x86\Debug\Portafolio.FrmLogin.resources
+C:\Users\Win7-4\Desktop\PROYECTOS\Portafolio ULTIMO\Portafolio\obj\x86\Debug\Portafolio.FrmProtafolio.resources
+C:\Users\Win7-4\Desktop\PROYECTOS\Portafolio ULTIMO\Portafolio\obj\x86\Debug\Portafolio.Properties.Resources.resources
+C:\Users\Win7-4\Desktop\PROYECTOS\Portafolio ULTIMO\Portafolio\obj\x86\Debug\Portafolio.csproj.GenerateResource.Cache
+C:\Users\Win7-4\Desktop\PROYECTOS\Portafolio ULTIMO\Portafolio\obj\x86\Debug\Portafolio.exe
+C:\Users\Win7-4\Desktop\PROYECTOS\Portafolio ULTIMO\Portafolio\obj\x86\Debug\Portafolio.pdb
+C:\Users\Win7-4\Desktop\PROYECTOS\Portafolio IN-OUT\Portafolio\bin\Debug\Portafolio.exe
+C:\Users\Win7-4\Desktop\PROYECTOS\Portafolio IN-OUT\Portafolio\bin\Debug\Portafolio.pdb
+C:\Users\Win7-4\Desktop\PROYECTOS\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.FrmLogin.resources
+C:\Users\Win7-4\Desktop\PROYECTOS\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.FrmProtafolio.resources
+C:\Users\Win7-4\Desktop\PROYECTOS\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.Properties.Resources.resources
+C:\Users\Win7-4\Desktop\PROYECTOS\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.csproj.GenerateResource.Cache
+C:\Users\Win7-4\Desktop\PROYECTOS\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.exe
+C:\Users\Win7-4\Desktop\PROYECTOS\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.pdb
+C:\Users\Win7-4\Desktop\Portafolio IN-OUT\Portafolio\bin\Debug\Portafolio.exe
+C:\Users\Win7-4\Desktop\Portafolio IN-OUT\Portafolio\bin\Debug\Portafolio.pdb
+C:\Users\Win7-4\Desktop\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.csprojResolveAssemblyReference.cache
+C:\Users\Win7-4\Desktop\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.FrmLogin.resources
+C:\Users\Win7-4\Desktop\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.FrmProtafolio.resources
+C:\Users\Win7-4\Desktop\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.Properties.Resources.resources
+C:\Users\Win7-4\Desktop\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.csproj.GenerateResource.Cache
+C:\Users\Win7-4\Desktop\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.exe
+C:\Users\Win7-4\Desktop\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.pdb
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.exe
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.pdb
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT\Portafolio\bin\Debug\Portafolio.exe
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT\Portafolio\bin\Debug\Portafolio.pdb
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.csprojResolveAssemblyReference.cache
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.FrmLogin.resources
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.FrmProtafolio.resources
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.Properties.Resources.resources
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.csproj.GenerateResource.Cache
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT\Portafolio\bin\Debug\Portafolio.exe.config
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT\Portafolio\bin\Debug\Portafolio.exe
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT\Portafolio\bin\Debug\Portafolio.pdb
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.csprojResolveAssemblyReference.cache
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.FrmLogin.resources
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.FrmProtafolio.resources
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.Properties.Resources.resources
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.csproj.GenerateResource.Cache
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.exe
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT\Portafolio\obj\x86\Debug\Portafolio.pdb
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5\Portafolio\bin\Debug\Portafolio.exe.config
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5\Portafolio\obj\x86\Debug\Portafolio.exe
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5\Portafolio\obj\x86\Debug\Portafolio.pdb
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5\Portafolio\bin\Debug\Portafolio.exe.config
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5\Portafolio\bin\Debug\Portafolio.exe
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5\Portafolio\bin\Debug\Portafolio.pdb
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5\Portafolio\bin\Debug\System.Configuration.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5\Portafolio\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5\Portafolio\bin\Debug\System.Data.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5\Portafolio\bin\Debug\System.Deployment.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5\Portafolio\bin\Debug\System.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5\Portafolio\bin\Debug\System.Drawing.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5\Portafolio\bin\Debug\System.Windows.Forms.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5\Portafolio\bin\Debug\System.Xml.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5\Portafolio\bin\Debug\System.Xml.Linq.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5\Portafolio\obj\x86\Debug\Portafolio.FrmLogin.resources
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5\Portafolio\obj\x86\Debug\Portafolio.FrmProtafolio.resources
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5\Portafolio\obj\x86\Debug\Portafolio.Properties.Resources.resources
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5\Portafolio\obj\x86\Debug\Portafolio.csproj.GenerateResource.Cache
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5\Portafolio\obj\x86\Debug\Portafolio.exe
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5\Portafolio\obj\x86\Debug\Portafolio.pdb
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5\Portafolio\obj\x86\Debug\Portafolio.csproj.CoreCompileInputs.cache
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5\Portafolio\obj\x86\Debug\Portafolio.csproj.CopyComplete
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5\Portafolio\obj\x86\Debug\Portafolio.csprojAssemblyReference.cache
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\Portafolio.exe.config
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\Portafolio.exe
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\Portafolio.pdb
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Configuration.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Data.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Deployment.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Drawing.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Windows.Forms.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Xml.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Xml.Linq.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.csprojAssemblyReference.cache
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.FrmLogin.resources
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.FrmProtafolio.resources
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.Properties.Resources.resources
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.csproj.GenerateResource.cache
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.csproj.CoreCompileInputs.cache
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.csproj.CopyComplete
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.exe
+C:\Users\dcarmona\Desktop\PROYECTOS\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.pdb
+C:\Users\dcarmona\Desktop\PROYECTOS\PA LA NUBE\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\Portafolio.exe.config
+C:\Users\dcarmona\Desktop\PROYECTOS\PA LA NUBE\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\Portafolio.exe
+C:\Users\dcarmona\Desktop\PROYECTOS\PA LA NUBE\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\Portafolio.pdb
+C:\Users\dcarmona\Desktop\PROYECTOS\PA LA NUBE\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Configuration.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\PA LA NUBE\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\PA LA NUBE\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Data.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\PA LA NUBE\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Deployment.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\PA LA NUBE\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\PA LA NUBE\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Drawing.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\PA LA NUBE\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Windows.Forms.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\PA LA NUBE\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Xml.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\PA LA NUBE\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Xml.Linq.dll
+C:\Users\dcarmona\Desktop\PROYECTOS\PA LA NUBE\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.csprojAssemblyReference.cache
+C:\Users\dcarmona\Desktop\PROYECTOS\PA LA NUBE\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.FrmLogin.resources
+C:\Users\dcarmona\Desktop\PROYECTOS\PA LA NUBE\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.FrmProtafolio.resources
+C:\Users\dcarmona\Desktop\PROYECTOS\PA LA NUBE\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.Properties.Resources.resources
+C:\Users\dcarmona\Desktop\PROYECTOS\PA LA NUBE\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.csproj.GenerateResource.cache
+C:\Users\dcarmona\Desktop\PROYECTOS\PA LA NUBE\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.csproj.CoreCompileInputs.cache
+C:\Users\dcarmona\Desktop\PROYECTOS\PA LA NUBE\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.csproj.CopyComplete
+C:\Users\dcarmona\Desktop\PROYECTOS\PA LA NUBE\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.exe
+C:\Users\dcarmona\Desktop\PROYECTOS\PA LA NUBE\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\Portafolio.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\Portafolio.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\Portafolio.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Configuration.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Data.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Deployment.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Drawing.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Windows.Forms.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Xml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Xml.Linq.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.csprojAssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.FrmLogin.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.FrmProtafolio.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.csproj.CopyComplete
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.pdb
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\Portafolio.exe.config
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\Portafolio.exe
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\Portafolio.pdb
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\ClosedXML.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\ExcelNumberFormat.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Configuration.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Data.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Deployment.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Drawing.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Windows.Forms.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Xml.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\System.Xml.Linq.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\ClosedXML.pdb
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\ClosedXML.xml
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\bin\Debug\ExcelNumberFormat.xml
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.csprojAssemblyReference.cache
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.FrmLogin.resources
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.FrmPortafolio.resources
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.Properties.Resources.resources
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.csproj.GenerateResource.cache
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.csproj.CoreCompileInputs.cache
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.csproj.CopyComplete
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.exe
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT\Portafolio\obj\x86\Debug\Portafolio.pdb
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\Portafolio.exe.config
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\Portafolio.exe
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\Portafolio.pdb
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\ClosedXML.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\ExcelNumberFormat.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\System.Configuration.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\System.Data.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\System.Deployment.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\System.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\System.Drawing.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\System.Windows.Forms.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\System.Xml.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\System.Xml.Linq.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\ClosedXML.pdb
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\ClosedXML.xml
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\ExcelNumberFormat.xml
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\obj\x86\Debug\Portafolio.csprojAssemblyReference.cache
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\obj\x86\Debug\Portafolio.FrmLogin.resources
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\obj\x86\Debug\Portafolio.FrmPortafolio.resources
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\obj\x86\Debug\Portafolio.Properties.Resources.resources
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\obj\x86\Debug\Portafolio.csproj.GenerateResource.cache
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\obj\x86\Debug\Portafolio.csproj.CoreCompileInputs.cache
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\obj\x86\Debug\Portafolio.csproj.CopyComplete
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\obj\x86\Debug\Portafolio.exe
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\obj\x86\Debug\Portafolio.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\Portafolio.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\Portafolio.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\Portafolio.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\ClosedXML.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\ExcelNumberFormat.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\System.Configuration.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\System.Data.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\System.Deployment.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\System.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\System.Drawing.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\System.Windows.Forms.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\System.Xml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\System.Xml.Linq.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\ClosedXML.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\ClosedXML.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\bin\Debug\ExcelNumberFormat.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\obj\x86\Debug\Portafolio.csprojAssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\obj\x86\Debug\Portafolio.FrmLogin.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\obj\x86\Debug\Portafolio.FrmPortafolio.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\obj\x86\Debug\Portafolio.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\obj\x86\Debug\Portafolio.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\obj\x86\Debug\Portafolio.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\obj\x86\Debug\Portafolio.csproj.CopyComplete
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\obj\x86\Debug\Portafolio.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\obj\x86\Debug\Portafolio.pdb
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20220114\Portafolio\obj\x86\Debug\Portafolio.FrmOpenFile.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\Portafolio.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\Portafolio.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\Portafolio.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\ClosedXML.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\ExcelNumberFormat.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\System.Configuration.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\System.Data.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\System.Deployment.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\System.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\System.Drawing.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\System.Windows.Forms.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\System.Xml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\System.Xml.Linq.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\ClosedXML.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\ClosedXML.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\ExcelNumberFormat.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\obj\x86\Debug\Portafolio.csprojAssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\obj\x86\Debug\Portafolio.FrmLogin.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\obj\x86\Debug\Portafolio.FrmOpenFile.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\obj\x86\Debug\Portafolio.FrmPortafolio.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\obj\x86\Debug\Portafolio.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\obj\x86\Debug\Portafolio.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\obj\x86\Debug\Portafolio.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\obj\x86\Debug\Portafolio.csproj.CopyComplete
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\obj\x86\Debug\Portafolio.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\obj\x86\Debug\Portafolio.pdb
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\Portafolio.exe.config
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\Portafolio.exe
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\Portafolio.pdb
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\ClosedXML.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\ExcelNumberFormat.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\System.Configuration.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\System.Data.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\System.Deployment.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\System.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\System.Drawing.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\System.Windows.Forms.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\System.Xml.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\System.Xml.Linq.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\ClosedXML.pdb
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\ClosedXML.xml
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\bin\Debug\ExcelNumberFormat.xml
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\obj\x86\Debug\Portafolio.csprojAssemblyReference.cache
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\obj\x86\Debug\Portafolio.FrmLogin.resources
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\obj\x86\Debug\Portafolio.FrmOpenFile.resources
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\obj\x86\Debug\Portafolio.FrmPortafolio.resources
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\obj\x86\Debug\Portafolio.Properties.Resources.resources
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\obj\x86\Debug\Portafolio.csproj.GenerateResource.cache
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\obj\x86\Debug\Portafolio.csproj.CoreCompileInputs.cache
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\obj\x86\Debug\Portafolio.csproj.CopyComplete
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\obj\x86\Debug\Portafolio.exe
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221027\Portafolio\obj\x86\Debug\Portafolio.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\Portafolio.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\Portafolio.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\Portafolio.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\ClosedXML.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\ExcelNumberFormat.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\System.Configuration.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\System.Data.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\System.Deployment.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\System.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\System.Drawing.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\System.Windows.Forms.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\System.Xml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\System.Xml.Linq.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\ClosedXML.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\ClosedXML.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\ExcelNumberFormat.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\obj\x86\Debug\Portafolio.csprojAssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\obj\x86\Debug\Portafolio.FrmLogin.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\obj\x86\Debug\Portafolio.FrmOpenFile.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\obj\x86\Debug\Portafolio.FrmPortafolio.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\obj\x86\Debug\Portafolio.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\obj\x86\Debug\Portafolio.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\obj\x86\Debug\Portafolio.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\obj\x86\Debug\Portafolio.csproj.CopyComplete
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\obj\x86\Debug\Portafolio.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\obj\x86\Debug\Portafolio.pdb
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\obj\x86\Debug\Portafolio.csprojAssemblyReference.cache
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\obj\x86\Debug\Portafolio.FrmLogin.resources
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\obj\x86\Debug\Portafolio.FrmOpenFile.resources
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\obj\x86\Debug\Portafolio.FrmPortafolio.resources
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\obj\x86\Debug\Portafolio.Properties.Resources.resources
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\obj\x86\Debug\Portafolio.csproj.GenerateResource.cache
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\obj\x86\Debug\Portafolio.csproj.CoreCompileInputs.cache
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\obj\x86\Debug\Portafolio.exe
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\obj\x86\Debug\Portafolio.pdb
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\Portafolio.exe.config
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\Portafolio.exe
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\Portafolio.pdb
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\ClosedXML.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\ExcelNumberFormat.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\System.Configuration.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\System.Data.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\System.Deployment.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\System.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\System.Drawing.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\System.Windows.Forms.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\System.Xml.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\System.Xml.Linq.dll
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\ClosedXML.pdb
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\ClosedXML.xml
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\bin\Debug\ExcelNumberFormat.xml
+C:\Users\dcarmona\Desktop\Portafolio IN-OUT 4.5 ACT-20221103\Portafolio\obj\x86\Debug\Portafolio.csproj.CopyComplete
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\bin\Debug\Portafolio.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\bin\Debug\Portafolio.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\bin\Debug\Portafolio.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\bin\Debug\ClosedXML.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\bin\Debug\ExcelNumberFormat.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\bin\Debug\System.Configuration.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\bin\Debug\System.Data.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\bin\Debug\System.Deployment.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\bin\Debug\System.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\bin\Debug\System.Drawing.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\bin\Debug\System.Windows.Forms.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\bin\Debug\System.Xml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\bin\Debug\System.Xml.Linq.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\bin\Debug\ClosedXML.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\bin\Debug\ClosedXML.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\bin\Debug\ExcelNumberFormat.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\obj\x86\Debug\Portafolio.csproj.AssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\obj\x86\Debug\Portafolio.FrmLogin.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\obj\x86\Debug\Portafolio.FrmOpenFile.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\obj\x86\Debug\Portafolio.FrmPortafolio.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\obj\x86\Debug\Portafolio.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\obj\x86\Debug\Portafolio.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\obj\x86\Debug\Portafolio.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\obj\x86\Debug\Portafolio.csproj.CopyComplete
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\obj\x86\Debug\Portafolio.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PORTAFOLIO\Portafolio IN-OUT 4.5 ACT-20230928\Portafolio\obj\x86\Debug\Portafolio.pdb
