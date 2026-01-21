@@ -19,13 +19,14 @@ namespace Portafolio
 	{
 		DataTable dt_excel = null;
 		string[] dt_plano = null;
-
+		bool info_entrada = false;
+		bool info_salida = false;
 		public FrmPortafolio()
 		{
 			InitializeComponent();
 		}
 
-		private void CaracteresPortafolios(object sender, KeyPressEventArgs e)
+		private void NumerosComa(object sender, KeyPressEventArgs e)
 		{
 			if (dgvItems.RowCount == 0)
 			{
@@ -57,14 +58,14 @@ namespace Portafolio
 			}
 		}
 
-		private bool VerificarItem(string portafolio, string item)
+		private bool VerificarItem(string item)
 		{
 			bool exite = false;
 			try
 			{
 				for (int i = 0; i < dgvItems.Rows.Count; i++)
 				{
-					if (Convert.ToString(dgvItems[0, i].Value).Equals(portafolio) && Convert.ToString(dgvItems[1, i].Value).Equals(item))
+					if (Convert.ToString(dgvItems[0, i].Value).Equals(item))
 					{
 						exite = true;
 						dgvItems[0, i].Selected = true;
@@ -80,11 +81,11 @@ namespace Portafolio
 			return exite;
 		}
 
-		private void AgregarItem(string portafolio, string item)
+		private void AgregarItem(string item)
 		{
 			try
 			{
-				dgvItems.Rows.Add(portafolio, item);
+				dgvItems.Rows.Add(item);
 			}
 			catch (Exception ex)
 			{
@@ -92,13 +93,12 @@ namespace Portafolio
 			}
 		}
 
-		private void AgregarItemDT(string portafolio, string item)
+		private void AgregarItemDT(string item)
 		{
 			try
 			{
 				DataRow dr = dt_excel.NewRow();
-				dr[0] = portafolio;
-				dr[1] = item;
+				dr[0] = item;
 				dt_excel.Rows.Add(dr);
 			}
 			catch (Exception ex)
@@ -119,32 +119,56 @@ namespace Portafolio
 			}
 		}
 
+		private string Concatenar()
+		{
+			string items = "";
+			try
+			{
+				for (int i = 0; i < dgvItems.Rows.Count; i++)
+				{
+					items += "'" + dgvItems[0, i].Value + "'";
+					if (i < dgvItems.Rows.Count - 1)
+					{
+						items += ",";
+					}
+				}
+			}
+			catch (Exception ex)
+			{
+				MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+			}
+			return items;
+		}
+
 		private void btnAgregar_Click(object sender, EventArgs e)
 		{
 			if (txtItem.Text.Trim().Equals(""))
 			{
-				MessageBox.Show("Escriba el código del ítem", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+				MessageBox.Show("Escriba el código del item", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
 				txtItem.Focus();
 				return;
 			}
-			dgvItems.ClearSelection();
-			string[] portafolios = txtPortafolio.Text.Split(',');
-			foreach (string portafolio in portafolios)
+
+			if (!VerificarItem(txtItem.Text))
 			{
-				if (!VerificarItem(portafolio, txtItem.Text))
+				if (dt_excel == null)
 				{
-					if (dt_excel == null)
-					{
-						AgregarItem(portafolio, txtItem.Text.Trim());
-					}
-					else
-					{
-						AgregarItemDT(portafolio, txtItem.Text.Trim());
-					}
+					AgregarItem(txtItem.Text.Trim());
 				}
+				else
+				{
+					AgregarItemDT(txtItem.Text.Trim());
+				}
+
+				txtItem.Focus();
+				txtItem.Text = "";
 			}
-			txtItem.Focus();
-			txtItem.Text = "";
+			else
+			{
+				MessageBox.Show("El item ya esta en la lista", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+				txtItem.Focus();
+				txtItem.SelectAll();
+			}
 		}
 
 		private void btnQuitar_Click(object sender, EventArgs e)
@@ -178,24 +202,53 @@ namespace Portafolio
 				Importacion.ruta = "";
 				Importacion impo = new Importacion();
 
-				new FrmOpenFile().ShowDialog(this);
-
-				if (!Importacion.ruta.Equals(""))
+				if (rdb_excel.Checked == true)
 				{
-					dt_excel = impo.importarExcel(Importacion.ruta);
-					dgvItems.Rows.Clear();
-					for (int i = 0; i < dt_excel.Rows.Count; i++)
+					new FrmOpenFile(1).ShowDialog(this);
+
+					if (!Importacion.ruta.Equals(""))
 					{
-						if (!Convert.ToString(dt_excel.Rows[i][0]).Trim().Equals(""))
+						dt_excel = impo.importarExcel(Importacion.ruta);
+						dgvItems.Rows.Clear();
+						for (int i = 0; i < dt_excel.Rows.Count; i++)
 						{
-							dgvItems.Rows.Add(Convert.ToString(dt_excel.Rows[i][0]).Trim(), Convert.ToString(dt_excel.Rows[i][1]).Trim());
+							if (!Convert.ToString(dt_excel.Rows[i][0]).Trim().Equals(""))
+							{
+								dgvItems.Rows.Add(Convert.ToString(dt_excel.Rows[i][0]).Trim());
+							}
 						}
 					}
 				}
+
 				if (dt_excel != null)
 				{
 					btn_importar.Enabled = false;
 					btn_limpiar.Enabled = true;
+				}
+				if (rdb_plano.Checked == true)
+				{
+					new FrmOpenFile(2).ShowDialog(this);
+
+					if (!Importacion.ruta.Equals(""))
+					{
+						dt_plano = impo.ImportarPlano(Importacion.ruta);
+						dgvItems.Rows.Clear();
+						for (int i = 0; i < dt_plano.Length; i++)
+						{
+							if (!Convert.ToString(dt_plano[i]).Trim().Equals(""))
+							{
+								if (!VerificarItem(Convert.ToString(dt_plano[i]).Trim()))
+								{
+									dgvItems.Rows.Add(Convert.ToString(dt_plano[i]).Trim());
+								}
+							}
+						}
+						if (dt_plano != null)
+						{
+							btn_importar.Enabled = false;
+							btn_limpiar.Enabled = true;
+						}
+					}
 				}
 			}
 			catch (Exception ex)
@@ -208,6 +261,7 @@ namespace Portafolio
 		private void btn_limpiar_Click(object sender, EventArgs e)
 		{
 			dgvItems.Rows.Clear();
+			//dgvItems.DataSource = null;
 			dt_excel = null;
 			btn_importar.Enabled = true;
 			btn_limpiar.Enabled = false;
@@ -238,25 +292,25 @@ namespace Portafolio
 					string id_cia = section.Settings["id_cia"].Value;
 
 					Datos datos = new Datos();
+					Proceso proceso = new Proceso();
 
-					List<string> portafolios = dgvItems.Rows.Cast<DataGridViewRow>()
-					.Select(x => x.Cells["col_portafolio"].Value.ToString())
-					.Distinct()
-					.ToList();
+					string[] portafolios = txtPortafolio.Text.Split(',');
+					string items = "";
 
-					foreach (string portafolio in portafolios)
+					for (int j = 0; j < dgvItems.RowCount; j++)
 					{
-						string items = "";
-
-						for (int j = 0; j < dgvItems.RowCount; j++)
-						{
-							if (dgvItems[0, j].Value.ToString().Equals(portafolio))
-								items = items + "'" + dgvItems[1, j].Value.ToString() + "',";
-						}
-						items = items.Trim(',');
-						string items_no_comercializados = datos.ValidarItemsNoComecializados(items, Convert.ToInt32(id_cia));
+						items = items + "'" + dgvItems[0, j].Value.ToString() + "',";
+					}
+					items = items.Trim(',');
+					string items_no_comercializados = datos.ValidarItemsNoComecializados(items, Convert.ToInt32(id_cia));
+					if (info_salida == false)
+						MessageBox.Show("Para los portafolios que estan administrados desde Matrioska solo saldran los ítems que no sean comercializados, para los demas portafolios saldran todos los ítems sin restricción.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+					info_salida = true;
+					for (int i = 0; i < portafolios.Length; i++)
+					{
+						Application.DoEvents();
 						string items_salida = "";
-						string validado = datos.ValidarPortafolio(portafolio);
+						string validado = datos.ValidarPortafolio(portafolios[i]);
 
 						if (!validado.Equals(string.Empty))
 						{
@@ -266,15 +320,11 @@ namespace Portafolio
 						{
 							items_salida = items;
 						}
-
-						Application.DoEvents();
-
 						if (!items_salida.Equals(string.Empty))
 						{
-							datos.EjecutarConsultaSalida(portafolio, items_salida, lbl_usuario.Text, Convert.ToInt32(id_cia));
+							Task.Run(() => datos.EjecutarConsultaSalida(portafolios[i], items_salida, lbl_usuario.Text, Convert.ToInt32(id_cia))).Wait();
 						}
 					}
-
 					MessageBox.Show("La consulta se ejecuto exitosamente", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
 				}
 				txtItem.Text = "";
@@ -314,6 +364,12 @@ namespace Portafolio
 
 		private void btnProcesarEnt_Click(object sender, EventArgs e)
 		{
+			if (txtPortafolio.Text.Trim().Equals(""))
+			{
+				MessageBox.Show("Escriba el código del portafolio", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+				return;
+			}
+
 			if (dgvItems.Rows.Count == 0)
 			{
 				MessageBox.Show("Agregue ítems a la lista", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
@@ -331,26 +387,25 @@ namespace Portafolio
 					string id_cia = section.Settings["id_cia"].Value;
 
 					Datos datos = new Datos();
+					Proceso proceso = new Proceso();
 
-					List<string> portafolios = dgvItems.Rows.Cast<DataGridViewRow>()
-					.Select(x => x.Cells["col_portafolio"].Value.ToString())
-					.Distinct()
-					.ToList();
+					string[] portafolios = txtPortafolio.Text.Split(',');
+					string items = "";
 
-					foreach (string portafolio in portafolios)
+					for (int j = 0; j < dgvItems.RowCount; j++)
 					{
-						string items = "";
-
-						for (int j = 0; j < dgvItems.RowCount; j++)
-						{
-							if (dgvItems[0, j].Value.ToString().Equals(portafolio))
-								items = items + "'" + dgvItems[1, j].Value.ToString() + "',";
-						}
-						items = items.Trim(',');
-						string items_no_comercializados = datos.ValidarItemsNoComecializados(items, Convert.ToInt32(id_cia));
-
+						items = items + "'" + dgvItems[0, j].Value.ToString() + "',";
+					}
+					items = items.Trim(',');
+					string items_no_comercializados = datos.ValidarItemsNoComecializados(items, Convert.ToInt32(id_cia));
+					if (info_entrada == false)
+						MessageBox.Show("Para los portafolios que estan administrados desde Matrioska solo entraran los ítems que no sean comercializados, para los demas portafolios entraran todos los ítems sin restricción.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+					info_entrada = true;
+					for (int i = 0; i < portafolios.Length; i++)
+					{
+						Application.DoEvents();
 						string items_entrada = "";
-						string validado = datos.ValidarPortafolio(portafolio);
+						string validado = datos.ValidarPortafolio(portafolios[i]);
 
 						if (!validado.Equals(string.Empty))
 						{
@@ -360,15 +415,11 @@ namespace Portafolio
 						{
 							items_entrada = items;
 						}
-
-						Application.DoEvents();
-
-						if (!items_no_comercializados.Equals(string.Empty))
+						if (!items_entrada.Equals(string.Empty))
 						{
-							datos.EjecutarConsultaEntrada(portafolio, items_entrada, lbl_usuario.Text, Convert.ToInt32(id_cia));
+							Task.Run(() => datos.EjecutarConsultaEntrada(portafolios[i], items_entrada, lbl_usuario.Text, Convert.ToInt32(id_cia))).Wait();
 						}
 					}
-
 					MessageBox.Show("La consulta se ejecuto exitosamente", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
 				}
 				txtItem.Text = "";

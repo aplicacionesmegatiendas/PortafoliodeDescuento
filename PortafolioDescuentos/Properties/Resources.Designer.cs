@@ -63,9 +63,19 @@ namespace Portafolio.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap eje_excel {
+        internal static System.Drawing.Bitmap ejeExcel {
             get {
-                object obj = ResourceManager.GetObject("eje_excel", resourceCulture);
+                object obj = ResourceManager.GetObject("ejeExcel", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ejePlano {
+            get {
+                object obj = ResourceManager.GetObject("ejePlano", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

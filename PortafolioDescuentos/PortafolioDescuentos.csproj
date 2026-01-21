@@ -10,7 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Portafolio</RootNamespace>
     <AssemblyName>PortafoliosDescuentos</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
   </PropertyGroup>
@@ -139,7 +139,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="favicon.ico" />
-    <None Include="Resources\eje_excel.PNG" />
     <None Include="Resources\ejeExcel.PNG" />
     <None Include="Resources\ejePlano.PNG" />
   </ItemGroup>

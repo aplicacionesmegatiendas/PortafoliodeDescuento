@@ -6,7 +6,6 @@ using System.Data.OleDb;
 using System.Data;
 using System.Windows.Forms;
 using ClosedXML.Excel;
-using DocumentFormat.OpenXml.Spreadsheet;
 
 namespace Portafolio
 {
@@ -22,14 +21,13 @@ namespace Portafolio
                 XLWorkbook libro = new XLWorkbook(ruta);
                 IXLWorksheet items = libro.Worksheet(1);
 
-                var rows = items.RangeUsed();//.Skip(1); // Skip header row
+                var rows = items.RangeUsed().RowsUsed();//.Skip(1); // Skip header row
                 dt = new DataTable();
-                dt.Columns.Add("Portafolio");
-                dt.Columns.Add("Item");
-                for (int i = 1; i <= rows.RowCount(); i++)
-				{
-                    dt.Rows.Add(rows.Row(i).Cell("A").Value.ToString(), rows.Row(i).Cell("B").Value.ToString());
-				}
+                dt.Columns.Add("Items");
+                foreach (var row in rows)
+                {
+                    dt.Rows.Add(row.Cell("A").Value.ToString());
+                }
                 return dt;
             }
             catch (Exception ex)
